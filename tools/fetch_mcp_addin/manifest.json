@@ -1,0 +1,7 @@
+{
+  "name": "FetchMCPAddIn",
+  "version": "0.1",
+  "author": "you",
+  "description": "Fetches a script from local MCP server and executes it after confirmation.",
+  "external": false
+}
